@@ -30,7 +30,7 @@ url: "https://dechimp.github.io/jklol" # the base hostname & protocol for your s
 # twitter_username: jekyllrb
 github_username:  dechimp
 # github_pages_repo_name: jklol
-repository: jklol
+repository: dechimp/jklol
 
 # Build settings
 # theme: minima
