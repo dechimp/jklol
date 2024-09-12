@@ -1,4 +1,4 @@
 ---
-layout: cayman-custom/default
+layout: overrides/cayman/default
 ---
 foo
