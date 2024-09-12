@@ -1,6 +1,5 @@
 ---
-# layout: page
-layout: default
+layout: cayman-custom/default
 title: About
 permalink: /about/
 foo: bar
